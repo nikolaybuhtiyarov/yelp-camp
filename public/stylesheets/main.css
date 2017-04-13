@@ -1,0 +1,30 @@
+.thumbnail img{
+    width: 100%;
+}
+
+.thumbnail{
+    padding: 0;
+}
+
+.thumbnail .caption-full{
+    padding: 10px;
+}
+
+.deleteForm{
+    display: inline-block;
+}
+
+#allCampgroundButton{
+    margin-top: 5px;
+    width: 100%;
+}
+
+#campground-search{
+    display: inline-block;
+}
+
+/* Google Maps */
+#map {
+    height: 400px;
+    width: 100%;
+}
